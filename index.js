@@ -6,8 +6,6 @@ const square=()=>{
     return x*x;
 
 }
-const add=()=>{
-    let a=3;
-    let b=4;
-    return a+b;
-}
+let a=3;
+let b=4;
+const add=(a,b)=>a+b;
